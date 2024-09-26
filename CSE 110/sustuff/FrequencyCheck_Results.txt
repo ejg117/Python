@@ -1,0 +1,8 @@
+Frequency Check
+Module Version: 1.0.5.64b.W
+Start Time: Wed Sep 25 11:52:42 2024
+Test Result - NO COMPARE OPTION USED
+Processor Name: 12th Gen Intel(R) Core(TM) i7-1280P
+Measured Processor Frequency: 2.095709
+End Time: Wed Sep 25 11:52:50 2024
+Total Time: in seconds: 8

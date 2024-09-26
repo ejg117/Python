@@ -1,0 +1,33 @@
+#num1 = 1
+#num2 = 2.0
+
+#print(num1)
+#print(num2)
+
+
+#price = float(input('How much does it cost?'))
+#tax_amount = int(input('Tax amount?'))
+
+#print('item price is' + str(price + tax_amount))
+#print(f'item price is : {price + tax_amount}')
+
+num1 = 4
+num2 = 3
+addition = num1 + num2
+subtraction = num1 - num2
+multiplication = num1 * num2
+division = num1 / num2
+division_int = num1 // num2
+remainder = num1 % num2
+exponent = num1 ** num2
+
+print(addition)
+print(subtraction)
+print(multiplication)
+print(division)
+print(division_int)
+print(remainder)
+print(exponent)
+
+#Order of operation
+print (3 + 4 * 2)

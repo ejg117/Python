@@ -1,0 +1,9 @@
+CPU Brand String Test
+Module Version: 1.0.25.64b.W
+Start Time: Wed Sep 25 11:52:42 2024
+Test Result - PASS 
+Expected: Intel(R) Core(TM) 
+Detected: 12th Gen Intel(R) Core(TM) i7-1280P
+Intel(R) Core(TM) processor detected..!!..
+End Time: Wed Sep 25 11:52:42 2024
+Total Time: in seconds: 0

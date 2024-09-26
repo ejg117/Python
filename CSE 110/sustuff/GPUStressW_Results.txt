@@ -1,0 +1,6 @@
+GPUStressW Module Test
+Module Version: 1.0.19.64b.W
+Start Time: Wed Sep 25 11:52:43 2024
+GPUStressW Module Test: PASS
+End Time: Wed Sep 25 11:53:44 2024
+Total Time: in seconds: 61

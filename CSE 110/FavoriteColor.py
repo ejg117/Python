@@ -1,0 +1,6 @@
+Favoritecolor = input('Please enter your favorite color')
+print ('Your favorite color is:')
+print (Favoritecolor)
+Complimentarycolor = input('Please choose a color that suits your favorite color')
+print ('Your new favorite color can be')
+print (Complimentarycolor + Favoritecolor)

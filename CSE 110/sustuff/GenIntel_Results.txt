@@ -1,0 +1,8 @@
+Genuine Intel CPU Test
+Module Version: 1.0.23.64b.W
+Start Time: Wed Sep 25 11:52:43 2024
+Test Result - PASS 
+Expected: GenuineIntel
+Detected: GenuineIntel
+End Time: Wed Sep 25 11:52:44 2024
+Total Time: in seconds: 1
